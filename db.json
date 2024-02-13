@@ -49,12 +49,7 @@
       "quantity": 1,
       "category": "Men's Shoes",
       "image": "/shos2.png",
-      "images": [
-        "/shosDe9.png",
-        "/shosDe10.png",
-        "/shosDe11.png",
-        "/shosDe12.png"
-      ],
+      "images": ["shosDe9.png", "shosDe10.png", "shosDe11.png", "shosDe12.png"],
       "alt": "Air Jordan 1 Retro High",
       "size": "xl",
       "sizes": ["UK-10.5", "UK-11.5", "UK-12", "UK-12.5", "UK-13"],
