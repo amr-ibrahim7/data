@@ -8,12 +8,12 @@
       "description": "Every time the AJ1 gets a remake, you get the classic sneaker in new colours and textures for an exciting, revamped look but with all the familiar comforts you know. Premium materials and accents give modern expression to an all-time favourite.",
       "price": 1692,
       "category": "Men's Basketball Shoes",
-      "image": "/public/shos1.png",
+      "image": "/shos1.png",
       "images": [
-        "/public/shosDe1.png",
-        "/public/shosDe2.png",
-        "/public/shosDe3.png",
-        "/public/shosDe4.png"
+        "/shosDe1.png",
+        "/shosDe2.png",
+        "/shosDe3.png",
+        "/shosDe4.png"
       ],
       "alt": "Air Jordan",
       "size": "xl",
@@ -28,12 +28,12 @@
       "description": "You can't help but look cool in low tops that meld high-end craft with high-tech features. Airy Ripstop and soft, synthetic suede pair with a smooth interior. The result? Classic low-top looks and the premium comfort you expect from Jordan Brand.",
       "quantity": 1,
       "category": "Men's Basketball Shoes",
-      "image": "/public/shos5.png",
+      "image": "/shos5.png",
       "images": [
-        "/public/shosDe5.png",
-        "/public/shosDe6.png",
-        "/public/shosDe7.png",
-        "/public/shosDe8.png"
+        "/shosDe5.png",
+        "/shosDe6.png",
+        "/shosDe7.png",
+        "/shosDe8.png"
       ],
       "alt": "Jordan Delta",
       "size": "xl",
@@ -48,12 +48,12 @@
       "description": "3 + 1 = a whole new icon. Celebrating 35 years of the Air Jordan 3, these kicks combine the classic AJ1 silhouette with an original AJ3 colourway. Crafted to the '85 specs, it's got premium leather, a high-top collar and the woven tongue label you know and love. Bold splashes of True Blue throughout (check out the Wings logo) stand out against layers of white and Cement Grey. And the finishing touch? Nike Air cushioning underfoot lets you keep pace, so nothing holds you back from stepping out in style",
       "quantity": 1,
       "category": "Men's Shoes",
-      "image": "/public/shos2.png",
+      "image": "/shos2.png",
       "images": [
-        "/public/shosDe9.png",
-        "/public/shosDe10.png",
-        "/public/shosDe11.png",
-        "/public/shosDe12.png"
+        "/shosDe9.png",
+        "/shosDe10.png",
+        "/shosDe11.png",
+        "/shosDe12.png"
       ],
       "alt": "Air Jordan 1 Retro High",
       "size": "xl",
@@ -68,12 +68,12 @@
       "description": "The Air Jordan 13 Retro brings back the memorable game shoe that Michael Jordan wore during the '97–98 season, all the way to his 6th championship . All the classic details are there like the quilted overlay, iconic sculpted midsole and holographic eye.",
       "quantity": 1,
       "category": "Men's Basketball Shoess",
-      "image": "/public/shos6.png",
+      "image": "/shos6.png",
       "images": [
-        "/public/shosDe13.png",
-        "/public/shosDe14.png",
-        "/public/shosDe15.png",
-        "/public/shosDe16.png"
+        "/shosDe13.png",
+        "/shosDe14.png",
+        "/shosDe15.png",
+        "/shosDe16.png"
       ],
       "alt": "Air Jordan 13 Retro",
       "size": "xl",
@@ -88,12 +88,12 @@
       "description": "Be cool. Stay cool. The AJ-6 Cool Grey lets your style take flight with a colourway rooted to Jordan Brand DNA. MJ wore 'em when he claimed his first championship and you'll be wearing 'em for—well, whatever you want. Laden with sleek features like dynamic design lines and an iced outsole, these sneakers bring speed and class to any 'fit. After all, they were famously inspired by Jordan's (wait for it) COOL sports car. So lace up and let your kicks do the rest.",
       "quantity": 1,
       "category": "Men's Shoes",
-      "image": "/public/shos7.png",
+      "image": "/shos7.png",
       "images": [
-        "/public/shosDe17.png",
-        "/public/shosDe18.png",
-        "/public/shosDe19.png",
-        "/public/shosDe20.png"
+        "/shosDe17.png",
+        "/shosDe18.png",
+        "/shosDe19.png",
+        "/shosDe20.png"
       ],
       "alt": "Air Jordan 6 Retro",
       "size": "xl",
@@ -108,12 +108,12 @@
       "description": "Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its inside out-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.",
       "quantity": 1,
       "category": "Men's Shoes",
-      "image": "/public/shos9.png",
+      "image": "/shos9.png",
       "images": [
-        "/public/shosDe21.png",
-        "/public/shosDe22.png",
-        "/public/shosDe23.png",
-        "/public/shosDe24.png"
+        "/shosDe21.png",
+        "/shosDe22.png",
+        "/shosDe23.png",
+        "/shosDe24.png"
       ],
       "alt": "Air Jordan 1 Mid SE Craft",
       "size": "xl",
@@ -128,14 +128,14 @@
       "description": "Inspired by generations of Js, these kicks are a collage of cool. Design details recall decades of legendary shoes while paying homage to MJs storied career. Breathable mesh, sturdy leather and lightweight Air cushioning in the heel make it that much easier to walk in the footsteps of greatness.",
       "quantity": 1,
       "category": "Men's Shoes",
-      "image": "/public/shos4.png",
+      "image": "/shos4.png",
       "images": [
-        "/public/shosDe25.png",
-        "/public/shosDe26.png",
-        "/public/shosDe27.png",
-        "/public/shosDe28.png",
-        "/public/shosDe29.png",
-        "/public/shosDe30.png"
+        "/shosDe25.png",
+        "/shosDe26.png",
+        "/shosDe27.png",
+        "/shosDe28.png",
+        "/shosDe29.png",
+        "/shosDe30.png"
       ],
       "alt": "Jordan Stay Loyal",
       "size": "xl",
@@ -150,12 +150,12 @@
       "description": "Russell Westbrook's 6th signature shoe is—you guessed it—all about speed. To get you goin' as fast as possible, we've wrapped the rubber outsole nearly up to the midsole, so you're not gonna slip when you explode from 0 to 100. Added security comes from the interior bootie that keeps you strapped in as you jet across the court. It's all held together by an outer shroud and fastened with a zip collar that spells out Russell's signature question:Why Not?",
       "quantity": 1,
       "category": "Men's Basketball Shoes",
-      "image": "/public/shos3.png",
+      "image": "/shos3.png",
       "images": [
-        "/public/shosDe31.png",
-        "/public/shosDe32.png",
-        "/public/shosDe33.png",
-        "/public/shosDe34.png"
+        "/shosDe31.png",
+        "/shosDe32.png",
+        "/shosDe33.png",
+        "/shosDe34.png"
       ],
       "alt": "Jordan Why Not .6 PF",
       "size": "xl",
@@ -170,12 +170,12 @@
       "description": "Every time the AJ1 gets a remake, you get the classic sneaker in new colours and textures for an exciting, revamped look but with all the familiar comforts you know. Premium materials and accents give modern expression to an all-time favourite",
       "quantity": 1,
       "category": "Men's Shoes",
-      "image": "/public/shos8.png",
+      "image": "/shos8.png",
       "images": [
-        "/public/shosDe35.png",
-        "/public/shosDe36.png",
-        "/public/shosDe37.png",
-        "/public/shosDe38.png"
+        "/shosDe35.png",
+        "/shosDe36.png",
+        "/shosDe37.png",
+        "/shosDe38.png"
       ],
       "alt": "Air Jordan 1 Mid SE",
       "size": "xl",
